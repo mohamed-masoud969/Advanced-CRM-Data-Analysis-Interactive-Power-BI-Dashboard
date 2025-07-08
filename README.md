@@ -1,2 +1,32 @@
-# Advanced-CRM-Data-Analysis-Interactive-Power-BI-Dashboard
-Developed a complete CRM analytics solution using Python and Power BI. Cleaned and prepared data, built a relational data model, and created interactive dashboards with sales funnels, KPIs, and detailed drill-through reports. Enabled dynamic filtering by subsidiary status, sector, and year established.Delivered actionable insights to boost sales performance and decision-making.
+# 📊 CRM Data Analysis & Interactive Power BI Dashboard
+
+## 📌 Overview
+This project involves building an interactive Power BI dashboard that analyzes sales performance across regions, product categories, and customer segments.
+
+## 🗃️ Data
+- Sales Data: Excel file with orders, products, and revenue information
+- Cleaned and transformed using Power Query
+
+## 🎯 Objectives
+- Track regional sales performance
+- Identify top-performing products
+- Monitor key financial KPIs
+
+## 📈 Dashboard Preview
+![Dashboard Preview](visuals/sales-dashboard.png)
+
+## 📊 KPIs
+- Total Sales
+- Profit by Region
+- Sales by Category
+- Monthly Trends
+
+## 🛠️ Tools Used
+- Power BI
+- Power Query
+- DAX
+- Excel
+
+## 📬 Contact
+Created by **Mohamed Masoud**  
+[LinkedIn](www.linkedin.com/in/mohamed-masoud-6b588431a)
