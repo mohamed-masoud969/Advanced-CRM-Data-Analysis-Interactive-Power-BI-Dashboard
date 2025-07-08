@@ -13,7 +13,7 @@ This project involves building an interactive Power BI dashboard that analyzes s
 - Monitor key financial KPIs
 
 ## 📈 Dashboard Preview
-![Dashboard Preview]([visuals/sales-dashboard.png](https://app.fabric.microsoft.com/reportEmbed?reportId=db47d19e-e368-47e9-9c6d-8825df8a207d&autoAuth=true&ctid=3c7a4dad-22f9-460f-9b04-70b4ea89f49f))
+![Dashboard Preview](https://app.fabric.microsoft.com/reportEmbed?reportId=db47d19e-e368-47e9-9c6d-8825df8a207d&autoAuth=true&ctid=3c7a4dad-22f9-460f-9b04-70b4ea89f49f)
 
 ## 📊 KPIs
 - Total Sales
