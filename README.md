@@ -27,8 +27,8 @@ This project involves building an interactive Power BI dashboard that analyzes s
 - Sales by Category
 - Monthly Trends
 - Total Revenue by Sector
-- # Of Accounts
-- # Of Employees
+- Num Of Accounts
+- Num Of Employees
 - % Subsidiary by Sector
 - AVG Revenue per Employee
 
